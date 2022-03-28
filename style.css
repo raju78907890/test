@@ -1,0 +1,72 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    background-color: rgb(231, 210, 210);
+}
+
+
+ .main{
+    
+    width: 300px;
+    height: 450px;
+    background-color: white;
+    transform: -50%, -50%;
+    margin: auto;
+    margin-top: 40px;
+    border: none;
+    border-radius: 20px 20px 20px 20px ;
+    padding: 30px;
+
+ }
+
+ .heading {
+    width: 300px;
+    margin: auto;
+    
+    
+ }
+
+.mcq ol li {
+
+    padding: 10px;
+     margin-left: 10px;
+     margin-top: 20px;
+     border: solid  black 1px;
+     border-radius: 3px 3px;
+     background-color: rgb(252, 198, 198);
+     font-size: 17px;
+     
+
+}
+
+.mcq ol li:hover {
+    background-color: rgb(193, 206, 230);
+}
+
+.prebtn {
+    padding: 10px;
+    margin-top: 50px;
+    background-color: rgb(189, 61, 61);
+    color: cornsilk;
+    border-radius: 4px;
+    font-weight: bolder;
+    
+}
+
+.nxtbtn {
+    padding: 10px;
+    margin-top: 50px;
+    margin-left: 150px;
+    background-color: rgb(61, 189, 61);
+    color: cornsilk;
+    border-radius: 4px;
+    font-weight: bolder;
+
+    
+}
+
